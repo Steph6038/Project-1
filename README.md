@@ -26,7 +26,7 @@ I Love watching Netflix and I wanted to see exactly what the Movies and TV shows
 4) Who are the top 15 directors
 
 # Results
-The results of my post can be found on [GitHub Pages](https://pages.github.com/).
+The results of my post can be found on [Blog](https://medium.com/@stephanie30024/netflix-tv-shows-and-movies-1d1c2a4b19a7).
 
 # Licensing, Authors, Acknowledgements
 Credit is given to Kaggle with providing me the dataset used in the code.
